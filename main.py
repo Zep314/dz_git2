@@ -1,0 +1,4 @@
+# Testing GIT
+
+if __name__ == '__main__':
+    print('Initial commit')
