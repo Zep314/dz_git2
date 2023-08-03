@@ -3,3 +3,4 @@
 if __name__ == '__main__':
     print('Initial commit')
     print('Second commit')
+    print('Final commit')
